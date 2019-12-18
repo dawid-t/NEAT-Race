@@ -5,12 +5,13 @@
 A small project witch use a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm.
 
 
+<a href="https://www.youtube.com/watch?v=boy5TIUDYkE"><b>Watch on YouTube</b></a>
+
 <a href="https://oxygenium.itch.io/neat-race"><b>Play in the browser</b></a>
 
 <a href="https://drive.google.com/open?id=14bXN1-6YP3uyFFhj_9cJ5WkJUW_go75S"><b>Download .exe on Windows</b></a>
 
 <a href="https://drive.google.com/open?id=1HxcPSNCJoRlIom44Dg0OLLwoTzglH6Zc"><b>Download .apk on Android</b></a>
-
 
 
 
