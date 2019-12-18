@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/iOVOmlZ.png" width="600px">
 </p>
 
-A small project witch use a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm.
+A small project witch use a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm, created in **Unity**.
 
 
 <a href="https://www.youtube.com/watch?v=boy5TIUDYkE"><b>Watch on YouTube</b></a>
