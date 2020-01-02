@@ -2,10 +2,10 @@
   <img src="https://i.imgur.com/iOVOmlZ.png" width="600px">
 </p>
 
-A small project which use a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm, created in **Unity**.
+A small project which uses a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm, created in **Unity**.
 
 
-<a href="https://www.youtube.com/watch?v=boy5TIUDYkE"><b>Watch on YouTube</b></a>
+<a href="https://www.youtube.com/watch?v=iEHcYHnWN5I"><b>Watch on YouTube</b></a>
 
 <a href="https://oxygenium.itch.io/neat-race"><b>Play in the browser</b></a>
 
